@@ -8,7 +8,7 @@ public class Flower {
     
     // name, color, petals --> properties
     // Rose, Red, 32 --> behaviours
-    // Sunflower, Yellow, 50
+    // sunflower, Yellow, 50
 
     // Member variables
     String flowerName; // Data type -> String
